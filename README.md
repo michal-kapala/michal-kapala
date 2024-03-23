@@ -1,4 +1,4 @@
-I enjoy game reverse engineering (revivals, not filthy hacking) and write javascript for the living just like all of us
+I enjoy game reverse engineering (revivals, not filthy cheating) and write javascript for the living just like all of us
 
 ## Useful gists
 * [Advanced IDAPython cheatsheet](https://gist.github.com/michal-kapala/e27386392cfd54fa2506a814dc5a3e5d)
