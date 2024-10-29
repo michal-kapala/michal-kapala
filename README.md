@@ -1,7 +1,7 @@
 I work on private servers for games considered abandonware and write javascript for the living just like all of us
 
 ## Game RE projects
-- Ghost Recon Online revival ([Discord](https://discord.gg/ZQHdw3d))
+- Ghost Recon Online/Phantoms revival ([Discord](https://discord.gg/ZQHdw3d))
 - Assassin's Creed: Brotherhood revival ([Discord](https://discord.gg/buKtUbwGrV))
 - 25 To Life revival ([Discord](https://discord.gg/gmYe84eS7q))
 - Ubisoft's Game Service emulation ([Discord](https://discord.gg/DGpZwqkGtF))
