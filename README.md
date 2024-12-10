@@ -1,4 +1,4 @@
-I work on private servers for games considered abandonware and write javascript for the living just like all of us
+I work on private servers for games considered abandonware and write j*vascript for the living just like all of us
 
 ## Game RE projects
 - Ghost Recon Online/Phantoms revival ([Discord](https://discord.gg/ZQHdw3d))
